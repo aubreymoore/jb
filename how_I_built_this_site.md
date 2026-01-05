@@ -1,5 +1,6 @@
 ---
 title: How I built this site
+subject: technical note
 date: 2026-01-01
 authors:
   - name: Aubrey Moore
