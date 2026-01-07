@@ -14,7 +14,7 @@ project:
     - file: README.md
     - file: how_I_built_this_site.md
     - file: Relationship between wind and CRB trap catch.md
-    
+    - file: shape_matching.md    
 site:
   template: book-theme
   # options:
