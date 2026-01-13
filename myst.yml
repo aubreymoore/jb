@@ -14,7 +14,10 @@ project:
     - file: README.md
     - file: how_I_built_this_site.md
     - file: Relationship between wind and CRB trap catch.md
-    - file: shape_matching.md    
+    - file: shape_matching.md  
+    - file: misc_notes.md  
+    - file: efd.md
+    - file: hi_res_segmentation.md
 site:
   template: book-theme
   # options:
