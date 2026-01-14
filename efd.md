@@ -13,6 +13,10 @@ bibliography:
 #     output: exports/relationship_between_wind_and_CRB_trap_catch.pdf
 ---
 
+```{note}
+This page contains basic information about elliptic Fourier analysis (EFA) and elliptic Fourier descriptors (EFD).
+```
+
 # Literature search
 
 Note: efd.py is in the sam3 folder.
