@@ -12,12 +12,18 @@ authors:
 
 
 ```{admonition} Objective
-I am interested in evaluating elliptic Fourier shape descriptors to detect damage to coconut trees in images from roadside surveys (especially v-shaped cuts caused by coconut rhinoceros beetles).
-I currently detect coconut palms in the images using a YOLOE model which provides a low resolution polygon for each detection.
-However, I need high resolution polygons which clearly show tree silhouettes.
+I am interested in evaluating elliptic Fourier analysis (EFA) to detect damage to coconut trees in images from roadside surveys (especially v-shaped cuts caused by coconut rhinoceros beetles).
+I currently detect coconut palms in images using a pretrained YOLOE model which provides a low resolution polygon for each detection.
+However, I need higher resolution polygons which clearly show tree silhouettes as input to EFA.
 
 This page documents attempts to develop a method for acquiring a hi-res polygon for each detected palm.
 ```
+
+# Background
+
+Previously, I detected v-shaped cuts in coconut palm fronds using a YOLO object detector trained using a dataset containing images with v-shaped cuts (vcuts) surrounded by bounding boxes. However, I recently came to the conclusion that ***vcuts are not objects***. They are simply anomalies on the edges of palm tree objects. 
+
+With this change in viewpoint I decided to develop an improved method to detect vcuts, and possibly other types of damage, using [shape alone](shape_matching.md).  [Elliptic Fourier analysis](efd.md) of closed polygons bounding detected coconut palms in images is a promising approach.  If I can get this to work, it will remove the arduous task of annotating thousands of vcuts for training a YOLO model.
 
 # Google AI chat
 
@@ -93,4 +99,5 @@ Elliptic Fourier analysis requires a continuous, clean boundary. 
 Once you have the coordinate list from the contours: 
 
 -   **Centroid Normalization:** Center the coordinates to make the Fourier descriptors invariant to the palm's position in the frame.
--   **Harmonic Calculation:** Use the extracted contour points as input for EFA libraries (like `pyefd` in Python) to generate descriptors that represent the "signature" of the coconut palm shape. 
+-   **Harmonic Calculation:** Use the extracted contour points as input for EFA libraries (like `pyefd` in Python) to generate descriptors that represent the "signature" of the coconut palm shape.
+
