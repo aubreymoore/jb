@@ -1,7 +1,7 @@
 ---
 title: High resolution segmentation of coconut palms in roadside images.
 subject: crb damage
-date: 2026-01-08
+date: 2026-01-14
 authors:
   - name: Aubrey Moore
 # exports:
