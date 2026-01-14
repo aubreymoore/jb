@@ -23,7 +23,9 @@ This page documents attempts to develop a method for acquiring a hi-res polygon 
 
 Previously, I detected v-shaped cuts in coconut palm fronds using a YOLO object detector trained using a dataset containing images with v-shaped cuts (vcuts) surrounded by bounding boxes. However, I recently came to the conclusion that ***vcuts are not objects***. They are simply anomalies on the edges of palm tree objects. 
 
-With this change in viewpoint I decided to develop an improved method to detect vcuts, and possibly other types of damage, using [shape alone](shape_matching.md).  [Elliptic Fourier analysis](efd.md) of closed polygons bounding detected coconut palms in images is a promising approach.  If I can get this to work, it will remove the arduous task of annotating thousands of vcuts for training a YOLO model.
+With this change in viewpoint I decided to develop an improved method to detect vcuts, and possibly other types of damage, using [shape alone](shape_matching.md).  
+
+[Elliptic Fourier analysis](efd.md) of closed polygons bounding detected coconut palms in images is a promising approach.  If I can get this to work, it will remove the arduous task of annotating thousands of vcuts for training a YOLO model.
 
 # Google AI chat
 
