@@ -18,6 +18,7 @@ project:
     - file: misc_notes.md  
     - file: efd.md
     - file: hi_res_segmentation.md
+    - file: build_crb_roadside_library.md
 site:
   template: book-theme
   # options:

@@ -59,3 +59,8 @@ git add .
 git commit -m 'added deploy.yml'
 git push
 ```
+
+# Adding Sphinx documentation
+
+[use uv to enable automatic python code documentation using sphinx](https://share.google/aimode/wMmU4zbsdFmHQscsh)
+
