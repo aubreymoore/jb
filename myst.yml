@@ -19,6 +19,7 @@ project:
     - file: efd.md
     - file: hi_res_segmentation.md
     - file: build_crb_roadside_library.md
+    - file: sam3.md
 site:
   template: book-theme
   # options:
