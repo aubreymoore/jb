@@ -1,0 +1,1 @@
+confidence: 0.842 object_index: 16
