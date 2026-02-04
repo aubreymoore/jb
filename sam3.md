@@ -58,182 +58,434 @@ Many of the segmentation masks are incomplete because palms are occluded by fore
 SAM3 detection results from the complex image. This is the default annotation returned by SAM3.
 Numbers are confidence levels.
 ```
-
-## Detected object 02
-confidence: 0.842 object_index: 16
+---
+## Detected object 02 confidence: 0.842 object_index: 16
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-02.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-02.jpg)
 
-## Detected object 03
-confidence: 0.771 object_index: 5
+### Attributes
+
+- [x] accept
+- [] healthy
+- [x] damaged
+- [] vcut(s)
+- [] dead
+- [] multiple trees
+- [] split by foreground object(s)
+- [] other problem
+---
+## Detected object 03 confidence: 0.771 object_index: 5
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-03.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-03.jpg)
 
-## Detected object 04
-confidence: 0.764 object_index: 9
+### Attributes
+
+- [] accept
+- [x] healthy
+- [] damaged
+- [] vcut(s)
+- [] dead
+- [x] multiple trees
+- [] split by foreground object(s)
+- [] other problem
+
+
+## Detected object 04 confidence: 0.764 object_index: 9
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-04.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-04.jpg)
 
-## Detected object 05
-confidence: 0.743 object_index: 3
+### Attributes
+
+- [x] accept
+- [] healthy
+- [x] damaged
+- [] vcut(s)
+- [] dead
+- [] multiple trees
+- [] split by foreground object(s)
+- [] other problem
+---
+
+## Detected object 05 confidence: 0.743 object_index: 3
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-05.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-05.jpg)
 
-## Detected object 06
-confidence: 0.730 object_index: 12
+### Attributes
+
+- [] accept
+- [x] healthy
+- [] damaged
+- [] vcut(s)
+- [] dead
+- [] multiple trees
+- [x] split by foreground object(s)
+- [] other problem
+---
+## Detected object 06 confidence: 0.730 object_index: 12
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-06.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-06.jpg)
 
-## Detected object 07
-confidence: 0.699 object_index: 2
+### Attributes
+
+- [x] accept
+- [] healthy
+- [x] damaged
+- [] vcut(s)
+- [] dead
+- [] multiple trees
+- [] split by foreground object(s)
+- [] other problem
+---
+## Detected object 07 confidence: 0.699 object_index: 2
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-07.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-07.jpg)
 
-## Detected object 08
-confidence: 0.691 object_index: 20
+### Attributes
+
+- [x] accept
+- [] healthy
+- [x] damaged
+- [] vcut(s)
+- [] dead
+- [] multiple trees
+- [] split by foreground object(s)
+- [] other problem
+---
+## Detected object 08 confidence: 0.691 object_index: 20
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-08.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-08.jpg)
 
-## Detected object 09
-confidence: 0.678 object_index: 7
+### Attributes
+
+- [] accept
+- [] healthy
+- [] damaged
+- [] vcut(s)
+- [] dead
+- [] multiple trees
+- [x] split by foreground object(s)
+- [] other problem
+---
+## Detected object 09 confidence: 0.678 object_index: 7
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-09.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-09.jpg)
 
-## Detected object 10
-confidence: 0.650 object_index: 0
+### Attributes
+
+- [x] accept
+- [] healthy
+- [x] damaged
+- [] vcut(s)
+- [] dead
+- [] multiple trees
+- [] split by foreground object(s)
+- [] other problem
+---
+## Detected object 10 confidence: 0.650 object_index: 0
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-10.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-10.jpg)
 
-## Detected object 11
-confidence: 0.630 object_index: 24
+### Attributes
+
+- [x] accept
+- [] healthy
+- [x] damaged
+- [] vcut(s)
+- [] dead
+- [] multiple trees
+- [] split by foreground object(s)
+- [] other problem
+---
+## Detected object 11 confidence: 0.630 object_index: 24
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-11.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-11.jpg)
 
-## Detected object 12
-confidence: 0.616 object_index: 8
+### Attributes
+
+- [] accept
+- [] healthy
+- [] damaged
+- [] vcut(s)
+- [] dead
+- [x] multiple trees
+- [] split by foreground object(s)
+- [] other problem
+---
+## Detected object 12 confidence: 0.616 object_index: 8
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-12.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-12.jpg)
 
-## Detected object 13
-confidence: 0.568 object_index: 22
+### Attributes
+
+- [x] accept
+- [] healthy
+- [x] damaged
+- [x] vcut(s)
+- [] dead
+- [] multiple trees
+- [] split by foreground object(s)
+- [] other problem
+---
+## Detected object 13 confidence: 0.568 object_index: 22
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-13.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-13.jpg)
 
-## Detected object 14
-confidence: 0.535 object_index: 15
+### Attributes
+
+- [x] accept
+- [] healthy
+- [x] damaged
+- [] vcut(s)
+- [] dead
+- [] multiple trees
+- [] split by foreground object(s)
+- [] other problem
+---
+## Detected object 14 confidence: 0.535 object_index: 15
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-14.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-14.jpg)
 
-## Detected object 15
-confidence: 0.511 object_index: 14
+### Attributes
+
+- [] accept
+- [] healthy
+- [] damaged
+- [] vcut(s)
+- [] dead
+- [] multiple trees
+- [x] split by foreground object(s)
+- [] other problem
+---
+## Detected object 15 confidence: 0.511 object_index: 14
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-15.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-15.jpg)
 
-## Detected object 16
-confidence: 0.480 object_index: 4
+### Attributes
+
+- [x] accept
+- [] healthy
+- [] damaged
+- [] vcut(s)
+- [x] dead
+- [] multiple trees
+- [] split by foreground object(s)
+- [] other problem
+---
+## Detected object 16 confidence: 0.480 object_index: 4
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-16.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-16.jpg)
 
-## Detected object 17
-confidence: 0.470 object_index: 11
+### Attributes
+
+- [x] accept
+- [] healthy
+- [] damaged
+- [] vcut(s)
+- [x] dead
+- [] multiple trees
+- [] split by foreground object(s)
+- [] other problem
+---
+## Detected object 17 confidence: 0.470 object_index: 11
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-17.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-17.jpg)
 
-## Detected object 18
-confidence: 0.458 object_index: 10
+### Attributes
+
+- [] accept
+- [x] healthy
+- [] damaged
+- [] vcut(s)
+- [] dead
+- [] multiple trees
+- [x] split by foreground object(s)
+- [] other problem
+---
+## Detected object 18 confidence: 0.458 object_index: 10
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-18.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-18.jpg)
 
-## Detected object 19
-confidence: 0.412 object_index: 21
+### Attributes
+
+- [x] accept
+- [] healthy
+- [x] damaged
+- [x] vcut(s)
+- [] dead
+- [] multiple trees
+- [] split by foreground object(s)
+- [] other problem
+---
+## Detected object 19 confidence: 0.412 object_index: 21
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-19.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-19.jpg)
 
-## Detected object 20
-confidence: 0.402 object_index: 19
+### Attributes
+
+- [] accept
+- [] healthy
+- [] damaged
+- [] vcut(s)
+- [] dead
+- [] multiple trees
+- [x] split by foreground object(s)
+- [] other problem
+---
+## Detected object 20 confidence: 0.402 object_index: 19
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-20.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-20.jpg)
 
-## Detected object 21
-confidence: 0.397 object_index: 23
+### Attributes
+
+- [] accept
+- [] healthy
+- [] damaged
+- [] vcut(s)
+- [] dead
+- [] multiple trees
+- [x] split by foreground object(s)
+- [] other problem
+---
+## Detected object 21 confidence: 0.397 object_index: 23
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-21.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-21.jpg)
 
-## Detected object 22
-confidence: 0.348 object_index: 6
+### Attributes
+
+- [] accept
+- [] healthy
+- [] damaged
+- [] vcut(s)
+- [] dead
+- [] multiple trees
+- [x] split by foreground object(s)
+- [] other problem
+---
+## Detected object 22 confidence: 0.348 object_index: 6
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-22.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-22.jpg)
 
-## Detected object 23
-confidence: 0.344 object_index: 18
+### Attributes
+
+- [] accept
+- [] healthy
+- [] damaged
+- [] vcut(s)
+- [] dead
+- [] multiple trees
+- [x] split by foreground object(s)
+- [] other problem
+---
+## Detected object 23 confidence: 0.344 object_index: 18
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-23.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-23.jpg)
 
-## Detected object 24
-confidence: 0.320 object_index: 13
+### Attributes
+
+- [] accept
+- [] healthy
+- [] damaged
+- [] vcut(s)
+- [] dead
+- [x] multiple trees
+- [] split by foreground object(s)
+- [] other problem
+---
+## Detected object 24 confidence: 0.320 object_index: 13
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-24.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-24.jpg)
 
-## Detected object 25
-confidence: 0.281 object_index: 17
+### Attributes
+
+- [] accept
+- [] healthy
+- [] damaged
+- [] vcut(s)
+- [] dead
+- [] multiple trees
+- [x] split by foreground object(s)
+- [] other problem
+---
+## Detected object 25 confidence: 0.281 object_index: 17
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-25.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-25.jpg)
 
-## Detected object 26
-confidence: 0.260 object_index: 1
+### Attributes
+
+- [] accept
+- [] healthy
+- [] damaged
+- [] vcut(s)
+- [] dead
+- [x] multiple trees
+- [] split by foreground object(s)
+- [] other problem
+---
+## Detected object 26 confidence: 0.260 object_index: 1
 
 ![](images/images_for_sam3_post/20251129_152106.jpg-26.jpg)
 
 ![](images/images_for_sam3_post/roi-20251129_152106.jpg-26.jpg)
 
+### Attributes
+
+- [] accept
+- [] healthy
+- [] damaged
+- [] vcut(s)
+- [] dead
+- [] multiple trees
+- [x] split by foreground object(s)
+- [] other problem
+---
 
 
 # References
