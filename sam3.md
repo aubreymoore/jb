@@ -1,7 +1,7 @@
 ---
 title: Evaluation of the SAM3 model for detection of coconut palm trees in images
 subject: sam3
-date: 2026-01-31
+date: 2026-02-04
 authors:
   - name: Aubrey Moore
 # exports:
@@ -12,46 +12,51 @@ authors:
 
 # Introduction
 
-This page evaluates SAM3, the most recent Segment Anything Model, for automated detection of coconut palm trees.
+This page documents my evaluation of SAM3, the most recent Segment Anything Model, for automated detection of coconut palm trees.
 
 Code associated with this page is available at https://github.com/aubreymoore/sam3-2026-01-31
 
-# SAM3 results
+We start by running SAM3 on two test images:
 
-We start by running SAM3 on two test images. 
-
-The first image is simple. It comes from a NewYork Times article posted on the internet and it contains two coconut palms heavily damaged by coconut rhinoceros beetle (CRB). 
-
-The second image is complex. It comes from a recent roadside survey of CRB damage on Efate Island in Vanuatu and it contains many coconut palms with various levels of damage.
+- The first image ([](#nytimes))  is simple. It is from a NewYork Times article posted on the internet and it contains two coconut palms heavily damaged by coconut rhinoceros beetle (CRB). 
+- The second image ([](#efate)) is complex. It is from a recent roadside survey of CRB damage on Efate Island in Vanuatu and it contains many coconut palms with various levels of damage.
 
 ```{figure} https://github.com/aubreymoore/sam3-2026-01-31/blob/main/08hs-palms-03-zglw-superJumbo.webp?raw=true
 :label: nytimes
-:alt: Sunset at the beach
-:align: center
-
-New York Times
+A simple test image posted on the internet by the New York Times.
 ```
 
 ```{figure} https://github.com/aubreymoore/sam3-2026-01-31/blob/main/20251129_152106.jpg?raw=true
 :label: efate
-:alt: Sunset at the beach
-:align: center
-
-Efate
+A complex test image from a roadside coconut rhinoceros damage survey conducted on Efate Island, Vanuatu.
 ```
+
+## SAM3 detection results for a simple image
+
+SAM3 performed very well on this image, returning high confidence detections and precise segmentation even tough the two coconut palms were heavily damaged ([](#fig-sam-nytimes)).
 
 ```{figure} images/sam3-08hs-palms-03-zglw-superJumbo.jpg
-:label: sam-nytimes
-:align: center
-
-New York Times
+:label: fig-sam-nytimes
+SAM3 detection results from the simple image. This is the default annotated image returned by SAM3.
+Numbers are confidence levels.
 ```
+## SAM3 detection results for a complex image
+
+SAM3 detected 25 coconut palms in this complex image. 
+The default annotation image returned by SAM3 is too cluttered to be of much use,so I wrote my own code to display each detection separately.
+The resulting images are displayed descending order of confidence.
+
+A first look at these detections indicates that SAM3 does a remarkable job at detecting coconut palms in a complex image. 
+It even finds dead standing stems without fronds and small objects.
+
+There are no obvious false positive detections. However, a few detections include two or more coconut palms. 
+Many of the segmentation masks are incomplete because palms are occluded by foreground objects.
 
 ```{figure} images/sam3-20251129_152106.jpg
-:label: sam-efate
-:align: center
+:label: fig-sam-efate
 
-Efate
+SAM3 detection results from the complex image. This is the default annotation returned by SAM3.
+Numbers are confidence levels.
 ```
 
 ## Detected object 02
