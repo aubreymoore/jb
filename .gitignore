@@ -5,9 +5,12 @@ build/
 dist/
 wheels/
 *.egg-info
+*.sqlite3
 
 # Virtual environments
 .venv
 
 # MyST build outputs
 _build
+
+
