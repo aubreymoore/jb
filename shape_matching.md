@@ -11,6 +11,7 @@ authors:
 #     output: exports/relationship_between_wind_and_CRB_trap_catch.pdf
 ---
 
+
 # Gemini 3 Prompt
 
 I have a dataset of coconut palm tree contours represented as polygons. I want to write a python script which will use OpenCV to cluster polygon shapes so that I can differentiate between damaged and undamaged trees. Please provide references and example code. 
