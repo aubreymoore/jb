@@ -26,3 +26,10 @@ site:
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
+
+launch_buttons:
+    binder: true
+repository:
+    url: https://github.com/aubreymoore/jb
+    branch: main  # Or the name of your default branch    
+

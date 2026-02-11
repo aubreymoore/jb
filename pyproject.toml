@@ -9,3 +9,4 @@ dependencies = [
     "jupyter-book>=2.1.0",
     "pandas>=3.0.0",
 ]
+
