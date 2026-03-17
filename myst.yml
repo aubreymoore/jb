@@ -21,6 +21,8 @@ project:
     - file: build_crb_roadside_library.md
     - file: sam3.md
     - file: create_one_to_many_sql
+    - file: roadside_video.md
+    - file: tekken.md
 site:
   template: book-theme
   # options:

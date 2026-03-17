@@ -8,5 +8,6 @@ dependencies = [
     "icecream>=2.1.10",
     "jupyter-book>=2.1.0",
     "pandas>=3.0.0",
+    "sphinx>=9.1.0",
 ]
 
