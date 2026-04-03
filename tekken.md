@@ -15,9 +15,10 @@ exports:
 # Tekken
 
 ```{note}
-This page contains technical information on the use of netting relevant to HB2207.
+This post is under construction.
 ```
-This blog post provides technical information relevant to Hawaii House Bill 2207.
+
+The Hawaii State Legislature is currently discussing legislation ( [House Bill 2207](https://www.capitol.hawaii.gov/sessions/session2026/bills/HB2207_HD2_.pdf) ), which may allow specific types of fish net to be used in protecting plants from damage by coconut rhinoceros beetle adults. This blog post provides technical information relevant to this discussion from my work as an entomologist at the University of Guam.
 
 ## Background
 

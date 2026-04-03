@@ -23,6 +23,7 @@ project:
     - file: create_one_to_many_sql
     - file: roadside_video.md
     - file: tekken.md
+    - file: crb_refs.md
 site:
   template: book-theme
   # options:
