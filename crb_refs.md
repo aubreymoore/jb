@@ -16,6 +16,8 @@ exports:
 
 I put this short reference list together following online chats with colleagues in Hawaii.
 
+For a much more comprehensive collection of CRB references, you might be interested in a [Zotero group library](https://www.zotero.org/groups/511387/crb) which I maintain. Send me an email to request access.
+
 ## General Info on CRB Biology and Management
 
 Moore, Aubrey, Trevor Jackson, Roland Quitugua, Robert Bevacqua, Jonae Sayama, and Ross Miller. **Coconut Rhinoceros Beetle**. US Forest Service, Forest Insect and Disease Leaflet 191.” April 2023. [PDF](https://www.fs.usda.gov/foresthealth/docs/fidls/FIDL-191-CoconutRhinocerosBeetle.pdf). 
