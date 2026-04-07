@@ -24,6 +24,7 @@ project:
     - file: roadside_video.md
     - file: tekken.md
     - file: crb_refs.md
+    - file: FIDL_website.md
 site:
   template: book-theme
   # options:
