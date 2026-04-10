@@ -1,7 +1,7 @@
 ---
 subject: Coconut rhinoceros beetle references
 # thumbnail: ./thumbnails/nice-image.png
-date: 2026-04-03
+date: 2026-04-10
 authors:
   - name: Aubrey Moore
 # bibliography:
@@ -47,3 +47,7 @@ Mansfield, Sarah, Balanama Asigau, Chikako van Koten, Sulav Paudel, Mike Bowie, 
 ## CRB Detection using Environmental DNA
 
 Kyle, Kathleen, Michael Allen, Mario Hernandez, et al. **Integrating Environmental DNA Into Early Detection Efforts for an Invasive Terrestrial Beetle**. Environmental DNA 8 (March 2026). [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1002/edn3.70262)
+
+## Packaged Soil Products as a Dispersal Pathway for CRB
+
+Moore, Aubrey, Roland Quitugua, Ian Iriarte, Michael Melzer, Shizu Watanabe, Zhiqiang and Jathan Barnes. **Movement of Packaged Soil Products as a Dispersal Pathway for Coconut Rhinoceros Beetle, Oryctes Rhinoceros (Coleoptera: Scarabaeidae) and Other Invasive Species.** Proceedings of the Hawaiian Entomological Society 48 (December 2016): 21–22. [PDF](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/ad4379f4-d4f8-4b88-ac00-7beb89d1b7fc/content)
