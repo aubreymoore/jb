@@ -23,10 +23,12 @@ For a much more comprehensive collection of CRB references, you might be interes
 Moore, Aubrey, Trevor Jackson, Roland Quitugua, Robert Bevacqua, Jonae Sayama, and Ross Miller. **Coconut Rhinoceros Beetle**. US Forest Service, Forest Insect and Disease Leaflet 191.” April 2023. [PDF](https://www.fs.usda.gov/foresthealth/docs/fidls/FIDL-191-CoconutRhinocerosBeetle.pdf). 
 
 ```{note}
-USDA is apparently blocking my access to the PDF provided above for some unknown reason. When I click on the link I get a get "The request is blocked." Please let me know if the link above works for you. 
+The US Forest Service is blocking international access to the above document ([see this blog post](FIDL_website.md)). 
+If you are facing this problem use this [alternate link to the PDF](https://raw.githubusercontent.com/aubreymoore/young-tekken-award/main/Forest%20Insect%20and%20Disease%20Leaflet%20191%20CRB.pdf).
+```
 
-Otherwise, this [alternate link to the PDF](https://raw.githubusercontent.com/aubreymoore/young-tekken-award/main/Forest%20Insect%20and%20Disease%20Leaflet%20191%20CRB.pdf) should work.
-
+```{note}
+Hyperlinks in the reference section of the above document are broken because of a formatting problem. For example, the link for Bedford(1980) is supposed to link to [https://tinyurl.com/yh79wmwc](https://tinyurl.com/yh79wmwc) which works. But because of bad formatting it links to [https://tinyurl.](https://tinyurl.) which fails.  Until this problem is fixed, you can access full text for the references by manually typing the links provided in the PDF. 
 ```
 
 ## CRB Trapping

@@ -5,14 +5,14 @@ authors:
   - name: Aubrey Moore
 ---
 
-# What is happening with the FIDL website?
+# What is happening with the US Forest Service FIDL website?
 
 ```{note}
 USDA is apparently blocking public access to **Forest Insect and Disease Leaflet (FIDL)** documents, including one on coconut rhinoceros beetle (CRB) prepared by University of Guam faculty and staff.  
 
 Clicking on existing links to FIDLS currently returns blank pages with nothing more than "The request is blocked."
 
-I am a little frustrated by this situation because I am trying to share the CRB FIDL with colleagues in Hawaii. I am also curious to find out what is happening. 
+I am a little frustrated by this situation because I am trying to share the CRB FIDL with colleagues in Hawaii ([see this blog post](crb_refs.md)). I am also curious to find out what is happening. 
 A quick Google search turned up no useful info. 
 So I decided to give Gemini a shot. 
 Here are the results. 
@@ -53,3 +53,19 @@ While the main USFS landing pages may be unreliable during this transition, you 
   * **Regional Contacts:** If you need a specific leaflet for management purposes, the National FIDL Coordinator (Robbie Flowers) and regional forest health protection staff are still active and can often email copies directly.
 
 The links are likely not "blocked" in a permanent legal sense, but rather "dark" due to a combination of administrative review and a massive physical and digital relocation of the agency's resources.
+
+## Response from USDA FS on April 11, 2025
+
+In response to emails I sent to USDA regarding my access to FIDLs being blocked, I received an email containing this information:
+
+"Access outside of the U.S. is blocked due to a recurrent DDoS attack from a foreign country.
+After reminding [...] that Guam is a U.S. Territory, they have removed the block and now all U.S. Territories have access."
+
+## Current status as of April 17, 2025
+
+The situation is worse than I originally thought. It looks like my access to the entire US Forest Service website is blocked when I try to access information from the Philippines.
+
+Here is the response when I click on [https://www.fs.usda.gov](https://www.fs.usda.gov):
+
+![](images/blocked.png)
+
