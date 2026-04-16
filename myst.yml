@@ -24,7 +24,8 @@ project:
     - file: roadside_video.md
     - file: tekken.md
     - file: crb_refs.md
-    - file: FIDL_website.md
+    - file: FIDL_website.
+    - file: pheromone_simulation.md
 site:
   template: book-theme
   # options:
