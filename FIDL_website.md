@@ -8,6 +8,10 @@ authors:
 # What is happening with the US Forest Service FIDL website?
 
 ```{note}
+See **Current status** at the end of this post.
+```
+
+```{note}
 USDA is apparently blocking public access to **Forest Insect and Disease Leaflet (FIDL)** documents, including one on coconut rhinoceros beetle (CRB) prepared by University of Guam faculty and staff.  
 
 Clicking on existing links to FIDLS currently returns blank pages with nothing more than "The request is blocked."
