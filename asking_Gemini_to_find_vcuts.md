@@ -16,7 +16,7 @@ I am developing python code to find damage to coconut palms caused by coconut rh
 
 Here is the response from Gemini with the code it wrote for me transcribed into a [Jupyter notebook](https://nbviewer.org/github/aubreymoore/cv2_ski/blob/main/cv2_ski.ipynb).
 
-And here's an updated version of the same [Jupyter notebook after a few fixes and improvements](https://nbviewer.org/github/aubreymoore/cv2_ski_fixed/blob/main/cv2_ski.ipynb).
+And here's an updated version of the same [Jupyter notebook after a few fixes and improvements](https://nbviewer.org/github/aubreymoore/cv2_ski/blob/main/cv2_ski_fixed.ipynb).
 
 ## Results
 
