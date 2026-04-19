@@ -27,6 +27,8 @@ project:
     - file: FIDL_website.md
     - file: pheromone_simulation.md
     - file: asking_Gemini_to_find_vcuts.md
+    - file: sky_seg.md
+    - file: create_one_to_many_sql.ipynb
 site:
   template: book-theme
   # options:
