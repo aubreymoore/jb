@@ -29,6 +29,8 @@ project:
     - file: asking_Gemini_to_find_vcuts.md
     - file: sky_seg.md
     - file: create_one_to_many_sql.ipynb
+    - file: crb_on_my_property.md
+    - file: cycad_scale_refs.md
 site:
   template: book-theme
   # options:
