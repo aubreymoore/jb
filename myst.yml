@@ -30,7 +30,9 @@ project:
     - file: sky_seg.md
     - file: create_one_to_many_sql.ipynb
     - file: crb_on_my_property.md
-    - file: cycad_scale_refs.md
+    - file: cycad_scale_refs.
+    - file: fink.md
+
 site:
   template: book-theme
   # options:
