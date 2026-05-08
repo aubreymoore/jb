@@ -30,8 +30,9 @@ project:
     - file: sky_seg.md
     - file: create_one_to_many_sql.ipynb
     - file: crb_on_my_property.md
-    - file: cycad_scale_refs.
+    - file: cycad_scale_refs.md
     - file: fink.md
+    - file: youtubes_worth_watching.md
 
 site:
   template: book-theme
