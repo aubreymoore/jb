@@ -20,7 +20,7 @@ project:
     - file: hi_res_segmentation.md
     - file: build_crb_roadside_library.md
     - file: sam3.md
-    - file: create_one_to_many_sql
+    - file: create_one_to_many_sql.ipynb
     - file: roadside_video.md
     - file: tekken.md
     - file: crb_refs.md
@@ -33,6 +33,7 @@ project:
     - file: cycad_scale_refs.md
     - file: fink.md
     - file: youtubes_worth_watching.md
+    - file: occurrence_records_from_trapping_data.md
 
 site:
   template: book-theme
