@@ -34,6 +34,8 @@ project:
     - file: fink.md
     - file: youtubes_worth_watching.md
     - file: occurrence_records_from_trapping_data.md
+    - file: occurrence_records_from_interception_data.md
+    - file: occurrence_records_from_literature.md
 
 site:
   template: book-theme
