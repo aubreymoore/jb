@@ -37,6 +37,9 @@ project:
     - file: sky_seg.md
     - file: tekken.md
     - file: youtubes_worth_watching.md
+    - file: reading_list.md
+    - file: darwin_core_archive.md
+    - file: uog_insect_collection.md
     
 site:
   template: book-theme
