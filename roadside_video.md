@@ -7,6 +7,8 @@ authors: Aubrey Moore
 
 The purpose of this post is to share info on my attempts to improve detection of coconut rhinoceros beetle damage detection in roadside imagery.
 
+I have been working on this project for quite awhile. Please have a look at this [YouTube recording](https://youtu.be/YLVTpX5MHys?t=7077) for background.
+
 My new workflow uses these steps:
 
 1. **Input** is a collection of roadside images which may or may not have metadata (timestamp, GPS coordinates, etc) embedded (in EXIF). Data may come from a variety of sources including automated roadside surveys, individual images, or web images publicly available on the WWW (social platforms, iNatualist, etc.).
