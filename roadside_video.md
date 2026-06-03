@@ -11,7 +11,7 @@ I have been working on this project for quite awhile. Please have a look at this
 
 My new workflow uses these steps:
 
-1. **Input** is a collection of roadside images which may or may not have metadata (timestamp, GPS coordinates, etc) embedded (in EXIF). Data may come from a variety of sources including automated roadside surveys, individual images, or web images publicly available on the WWW (social platforms, iNatualist, etc.).
+1. **Input** is a collection of roadside images which may or may not have metadata (timestamp, GPS coordinates, etc) embedded (in EXIF). Data may come from a variety of sources including automated roadside surveys, individual images, or web images publicly available on the WWW (social platforms, iNaturalist, etc.).
 2. Coconut palms are detected in each image using the Segment Anything model (SAM3). This AI model requires no training and it does an excellent job of finding all coconut palms in an image, even dead ones ([related post](sam3.md)).
 3. Each coconut palm detected in step 1. is examined for signs of CRB damage (v-shaped cuts etc.). I originally trained an AI model to do this step. But in this development cycle, I am using computer vision (CV) instead. My new method relies exclusively on shape analysis (visualized using binary masks).
 4. **Output** is saved in a database which can be used to generate interactive web maps and statistical reports to monitor changes in CRB damage over space and time. 
@@ -46,3 +46,6 @@ Each blob represents an anomaly on the contour of the palm tree. In this case, m
 Note that the new workflow detects these features even though they are tiny. This suggests that the final workflow will be able to detect 
 CRB damage to coconut palms anywhere in the image, not only to those in the foreground.
 ```
+ ## References
+
+ - [GPU requirements for large images](https://gemini.google.com/share/fd5d14f72e4d)
