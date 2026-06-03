@@ -49,3 +49,4 @@ CRB damage to coconut palms anywhere in the image, not only to those in the fore
  ## References
 
  - [GPU requirements for large images](https://gemini.google.com/share/fd5d14f72e4d)
+ - [GPU with largest memory available for free on Colab](https://share.google/aimode/bnRMn2XB9hJquuJOd)
