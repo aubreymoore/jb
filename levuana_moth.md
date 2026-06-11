@@ -1,26 +1,33 @@
 ---
 title: Comments on "The Fly Introduced to Save Fiji’s Coconuts Caused an Extinction"
 subject: biocontrol
-date: 2026-06-04
+date: 2026-06-11
 authors: Aubrey Moore
 ---
-# Comments on "The Fly Introduced to Save Fiji’s Coconuts Caused an Extinction"
 
-# This page is under construction.
-![Under construction](https://upload.wikimedia.org/wikipedia/commons/d/d9/Under_construction_animated.gif) 
-
-Today I can across an interesting article referred to me in a [PestNet Community Notification](https://www.pestnet.org/).
+A few days ago I can across an interesting article referred to me in a [PestNet Community Notification](https://www.pestnet.org/).
 
 [The Fly Introduced to Save Fiji’s Coconuts Caused an Extinction](https://a-z-animals.com/articles/the-fly-introduced-to-save-fijis-coconuts-caused-an-extinction/#h-introducing-a-new-biological-control-program) 
 is an online article by Jessica Lynn published by [World's Wildlife Encyclopedia](https://a-z-animals.com/) on May 29, 2026. 
 
 The article is a story about the Levuana moth in Fiji which may have gone extinct extinct after a parasitic fly was introduce to stop its caterpillars from damaging coconut palms.
 
-As an entomologist who worked on Pacific Islands, I found the article very interesting. However, a couple of things bothered me and prompted me to write these comments.
+The parasitic fly, *Bessa remota*, was introduced to Fiji about a hundred years ago as a biocontrol agent for a moth, *Levuana iridescens*, which was a serious pest of coconut palms.  
+The biocontrol program was very successful. Within a few years, the *Bessa* parasitoid killed *Levuana* caterpillars at such a high rate that the leaf damage they caused disappeared and very few moths Levuana moths survived.
+To this day, *Levuana iridescens* are extremely difficult to collect. Some entomologists claim that the Levuana moth is extinct but others think there is insufficient evidence to support this claim.
 
-## Comment 1 - The fly image in this article is the wrong species
+As an entomologist who worked on coconut pests in the Pacific Islands, I found the article very interesting. However, a couple of things in the article bothered me and prompted me to write these comments.
 
-Much of the text is in support of the hypothesis stated in the title: A fly, *Bessa remota*, was introduced to Fiji about a hundred years ago as a biocontrol agent for a moth, *Levuana iridescens*, which was a serious pest of coconut palms.   
+:::{figure} https://upload.wikimedia.org/wikipedia/commons/8/8e/Levuana_iridescens.jpg
+:label: my-image-label
+
+Levuana moth, *Levuana iridescens*.<br>
+Image by Rosa Henderson, [Landcare Research, NZ](http://www.landcareresearch.co.nz/).<br>
+Downloaded from [PaDIL](https://www.padil.gov.au/maf-border/pest/142611).
+Licensed under [CC BY 3.0 AU](https://creativecommons.org/licenses/by/3.0/au/).
+:::
+
+## Comment 1: The fly image in this article is the wrong species
 
 The fly in the image used in the article is the New World screw worm, *Cochliomyia hominivorax* (Family Calliphoridae) and it is not relevant to the story, which is about the impact of *Bessa remota* (Family Tachinidae).
 The two species are very different in appearance and ecology:
@@ -31,10 +38,16 @@ The two species are very different in appearance and ecology:
 ```{figure} https://a-z-animals.com/media/2026/03/shutterstock-2643875301-huge-licensed-scaled-768x576.jpg
 :label: screw
 Parasitic flies like *B. remota* or the New World screw-worm fly (pictured here) feed on their hosts’ tissues, causing extreme injury or death. 
-[Caption from the figure used in the article]
+
+[The caption is from the figure used in the article.]
 ```
 
-I suggest revising the article to include an image of *Bessa remota*.
+:::{note} Suggested Edit
+The screw worm fly image is totally irrelevant to the content of this article.
+
+It should be replaced with in image of *Bessa remota* to avoid confusing readers.
+:::
+
 The Global Biodiversity Information Facility (GBIF) has a [image gallery for *B. remota*](https://www.gbif.org/occurrence/1318220760) and a larger [image gallery of other species in the *Bessa* genus](https://www.gbif.org/occurrence/gallery?taxon_key=1473374).  An example is shown below ([](#bessa)).
 
 ```{figure} images/Bessa_remota.png
@@ -45,12 +58,12 @@ Labelled as *Ptychomyia remota* Aldrich 1925, a synonym of *Bessa remota* (Aldri
 Click [here](https://www.gbif.org/tools/zoom/simple.html?src=//api.gbif.org/v1/image/cache/occurrence/1318220760/media/43228c5e77f5171986913d0f34baf7cc) to open an interactive copy of this image.
 ```
 
-## Comment 2 - The title of this article is misleading
+## Comment 2: The title of this article is misleading
 
 The title, "The Fly Introduced to Save Fiji’s Coconuts Caused an Extinction" is misleading. 
 It is not a fact But it is a useful falsifiable hypothesis. 
 
-There are actually two hypothesis implied by the title:
+There are actually two hypotheses implied by the title:
 1. *Levuana iridescens* is extinct
 2. extinction was caused by the *Bessa remota*, a parasitoid used as a biocontrol agent
 
@@ -61,7 +74,8 @@ This hypothesis can be falsified by collecting a live specimen.
 Zero occurrence records resulting from a significant sampling effort would support the extinction hypothesis.
 
 So I did a quick literature search to get an idea of the sampling effort for *Levuana iridescens*.
-I started my [search using Gemini](https://gemini.google.com/share/d796f19b4bc0). I then looked at some key documents.
+I started my [search using Gemini](https://gemini.google.com/share/d796f19b4bc0). 
+I then looked at some key documents: a couple of databases and three journal articles.
 
 ### IUCN Red List Risk Assessment
 
@@ -74,75 +88,40 @@ Screenshot of [IUCN Red List of Threatened Species assessment for *Levuana iride
 ), accessed on 2026-06-07.
 ```
 
-MORE TO COME SOON.
+### Recently Extinct Plants and Animals Database
 
+The [REPAD record for *Levuana iridescens*](https://recentlyextinctspecies.com/lepidoptera-butterflies-moths/levuana-iridescens) states "The extinction of this species is unresolved: http://www.biocontrol.ucr.edu/hoddle/Levuana.html"
 
-<!-- [REPAD](https://recentlyextinctspecies.com/lepidoptera-butterflies-moths/levuana-iridescens)
+### Journal article review
 
-Listed as missing or extinct with notation "The extinction of this species is unresolved: http://www.biocontrol.ucr.edu/hoddle/Levuana.html" -->
+I did a quick review of a three publicly accessible journal articles.
+These articles indicate that it is quite possible that *Levuana iridescens* is not extinct in Fiji but exists at low population levels 
+and it is not likely that this small moth will be collected and identified without significant sampling effort in the form of well-designed, targeted surveys.
 
+https://doi.org/10.1023/a:1024015327707. **Did biological control cause extinction of the coconut moth, *Levuana iridescens*, in Fiji?**
+- "It is uncertain whether *L. iridescens* was native to Fiji. It also may not be extinct. So, the repeatedly cited story of the extinction of *L. iridescens* by a biological control agent as a worst-case scenario is also uncertain, perhaps even unlikely."
+- provides detailed plans for surveys to support or falsify the *Levuana iridescens* extinction hypothesis.
 
+https://doi.org/10.1353/psc.2006.0030 **Historical Review of Control Programs for *Levuana iridescens* (Lepidoptera: Zygaenidae) in Fiji and Examination of Possible Extinction of This Moth by Bessa remota (Diptera: Tachinidae)**
+- provides a very comprehensive history of the biocontrol project
+- documents results of recent research aimed at finding the Levuana moth in Fiji including discovery of new pinned specimens (both labelled and unlabelled) in an insect collection.
+- provides detailed plans for surveys to support or falsify the *Levuana iridescens* extinction hypothesis
 
-<!-- # Kuris 
+https://doi.org/10.1371/journal.pone.0225590 **Phylogenetic position of the ‘extinct’ Fijian coconut moth, *Levuana iridescens* (Lepidoptera: Zygaenidae)**
+- *Heteropan dolens* (Druce 1888) (Zygaenidae: Chalcosiinae), another moth that suffered population decline, presumably due to parasitism by *B. remota*. *H. dolens* was considered extinct until its rediscovery in 1963.
+- summarizes of the *Levuana* extinction controversy. Please open the article to read his numbered references:
 
+:::{pull-quote}
+Over the recent decades, the tone of discussion around the fate of *Levuana* seems to have shifted from “a classical example of successful biological control” [1] and “best documented case of extinction” [5, 8] to “extinction of a native insect following the introduction of an exotic control agent” [12] and to ‘possibly not extinct at all’ [7, 10, 11, 15, 40]. Indeed, various factors indicate that the paucity of recent records since the conclusion of Levuana Campaign in 1930s has more to do with lack of proper surveys than anything else [11].
+:::
 
+:::{note} Suggested Edit
+I suggest adding a qualifier in the title to avoid misleading readers.<br>
 
-
-
-
-
-
-
-
-
-
-
-
-I suggest adding a qualifier to avoid misleading readers such as "... May Have Caused an Extinction" or "... Possibly Caused an Extinction"
-or even "... Probably Caused an Extinction" if there is adequate supporting evidence.
-
-Making universal claims about nonexistence are unscientific. 
-
-
-
-is a valid falsifiable hypothesis.
-But there it is not supported by much evidence.
-
-
-
-
-
-
-
-
-
-Science primarily builds knowledge through observable phenomena, making universal claims of nonexistence nearly impossible to prove. Because science is based on empirical data, it operates on the principle that "absence of evidence is not evidence of absence", and that all scientific claims must be falsifiable.
-
-
-
-
-Link to Butterfly Specialist Group is broken.
-
-
-
-
-
-
-Even though I worked as an entomologist on Pacific Islands most of my career with quite a bit of time spent on dealing with coconut pests I had not heard *Levuana iridescens* or Family Zygaenidae until today.
-The current article does not present enough information to convince me that *Levuana iridescens* has gone extinct. 
-
-So I thought I would have a look at at the [IUCN Red List data for this species](https://www.iucnredlist.org/species/11919/3315160#assessment-information). IUCN is the organization that proclaimed extinction of *L. iridescens* in 1994, so I thought this would be the where I would find some evidence justifying this decision. 
-I was disappointed, their "Assessment Information" was almost blank except for a few "facts":
-- Year last seen: 1929 [This appears wrong. More recent elsewhere.]
-- Previously published Red List assessments: 1994 - Extinct (Ex)
-- Geographic Range: Native: Extinct: United States (Hawaiian Islands) [This appears to be wrong.]
-
-Next stop was GBIF.
-
-- The [GBIF dataset for *L. iridescens*](https://doi.org/10.15468/dl.2d6xhg) has 53 occurrence records. However, many records are incomplete. Only 22 (42%) have valid `eventDate` fields: 13 from 1899, 1 from 1922, 7 from 1926.
-- One additional record [occurrence record](https://www.gbif.org/occurrence/1851019563) refers to a preserved specimen *L. iridescens* collected on Viti Levu between 1966 and 1970. 
-
-## References
-
-https://share.google/aimode/IcAxeV0kJLpPZNBbf
- -->
+Change form:<br>
+"The Fly Introduced to Save Fiji’s Coconuts Caused an Extinction"<br>
+to:<br>
+"The Fly Introduced to Save Fiji’s Coconuts May Have Caused an Extinction"<br>
+or:<br>
+"The Fly Introduced to Save Fiji’s Coconuts Possibly Caused an Extinction"  
+:::
