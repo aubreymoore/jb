@@ -17,7 +17,7 @@ These records can be searched online and/or downloaded in various formats.
 
 ## References
 
-- [What happened to SCAN, the Symbiota Collections of Arthropods Network?](https://share.google/aimode/WktWbELLlsLBfyvj0)
-- [How can I get the final backup for the SCAN data for the University of Guam collection?](https://share.google/aimode/WktWbELLlsLBfyvj0)
-- [How can I connect the collection data to the Ecdysis portal?](https://gemini.google.com/share/677548ee6b4a)
+1. [What happened to SCAN, the Symbiota Collections of Arthropods Network?](https://share.google/aimode/WktWbELLlsLBfyvj0)
+2. [How can I get the final backup for the SCAN data for the University of Guam collection?](https://share.google/aimode/WktWbELLlsLBfyvj0)
+3. [How can I connect the collection data to the Ecdysis portal?](https://gemini.google.com/share/677548ee6b4a)
 
