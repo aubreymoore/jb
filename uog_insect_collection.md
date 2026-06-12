@@ -1,6 +1,6 @@
 ---
 subject: biodiversity
-date: 2026-03-18
+date: 2026-06-12
 authors: Aubrey Moore
 ---
 # Online catalog for the University of Guam Insect Collection
@@ -19,4 +19,5 @@ These records can be searched online and/or downloaded in various formats.
 
 - [What happened to SCAN, the Symbiota Collections of Arthropods Network?](https://share.google/aimode/WktWbELLlsLBfyvj0)
 - [How can I get the final backup for the SCAN data for the University of Guam collection?](https://share.google/aimode/WktWbELLlsLBfyvj0)
+- [How can I connect the collection data to the Ecdysis portal?](https://gemini.google.com/share/677548ee6b4a)
 

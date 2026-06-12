@@ -80,7 +80,7 @@ I then looked at some key documents: a couple of databases and three journal art
 ### IUCN Red List Risk Assessment
 
 As reported in the article, the International Union of Concerned Naturalists (IUCN) declared *Levuana iridescens* to be extinct in 1996.
-The IUCN maintains a Red List of Threatened Species and taxon experts apply a standardized risk assessments method for each listed species. Unfortunately, assessment information supporting classification of *Levuana iridescens* as extinct is missing from their online database ([](iucn_assessment)). As you can see in the screenshot, most fields are blank. Even worse, there are factual errors ('last seen' in 1929 is not true, 'geographic range' including the Hawaiian Islands is not true). And the link to the IUCN SSC Butterfly Group is broken. I will contact IUCN to report these errors and see if I can get information on their risk assessment. This post will be updated if I get a response.
+The IUCN maintains a Red List of Threatened Species and taxon experts apply a standardized risk assessments method for each listed species. Unfortunately, assessment information supporting classification of *Levuana iridescens* as extinct is missing from their online database ([](#iucn_assessment)). As you can see in the screenshot, most fields are blank. Even worse, there are factual errors ('last seen' in 1929 is not true, 'geographic range' including the Hawaiian Islands is not true). And the link to the IUCN SSC Butterfly Group is broken. I will contact IUCN to report these errors and see if I can get information on their risk assessment. This post will be updated if I get a response.
 
 ```{figure} images/Levuana/iucn_assessment.png
 :label: iucn_assessment
