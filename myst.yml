@@ -41,6 +41,7 @@ project:
     - file: darwin_core_archive.md
     - file: uog_insect_collection.md
     - file: levuana_moth.md
+    - file: qgis_cv.md
     
 site:
   template: book-theme
