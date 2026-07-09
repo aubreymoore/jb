@@ -1,7 +1,7 @@
 ---
 title: CRB on my property
 author: Aubrey Moore
-date: 2023-04-21
+date: 2026-06-27
 ---
 
 # This page is under construction.
@@ -35,5 +35,9 @@ who is participating in a CRB pheromone trapping? Gotta be miniscule."
 6,,male; residue left in panel trap
 7,,female; residue left in panel trap
 8,https://www.inaturalist.org/observations/339411070,female; DeFence trap
+9,,male,2025-05-19
+10,,male,2025-06-27
 ```
 
+## References
+- [Gemini recommendations for recording pheromone trap data in GBIF](https://share.google/aimode/vDJRs6nWEiYX8nPog)
