@@ -44,6 +44,7 @@ project:
     - file: qgis_cv.md
     - file: flight.md
     - file: crb_damage_survey_archive.md
+    - file: CRB relatives on Guam.md
     
 site:
   template: book-theme
