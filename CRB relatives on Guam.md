@@ -24,7 +24,7 @@ Dunlap et al. 2015[^1] listed 2 scarab beetles as native to Guam:
 
 However:
 * Allsop[^2] claims that the record from Guam for *Holotrichia burmeistri*, a synonym of *Lepidiota carolinensis*, "is based on one individual in luggage". So this species should probably be dropped from the list as a being native to Guam (it is native to Palau).
-* I could not find a Guam occurrence records for *Ataenius yasumatsui*. The GBIF accepted name for *Ataenius yasumatsui* is *Airapus interstitialis* and there is only [one occurrence record for this species in GBIF](https://www.gbif.org/occurrence/search?taxonKey=BD77) and this is from the Federated States of Micronesia. Occurrence status of this species on Guam requires further investigation.
+* I could not find any Guam occurrence records for *Ataenius yasumatsui*. The GBIF accepted name for *Ataenius yasumatsui* is *Airapus interstitialis* and there is only [one occurrence record for this species in GBIF](https://www.gbif.org/occurrence/search?taxonKey=BD77) and this is from the Federated States of Micronesia. Occurrence status of this species on Guam requires further investigation.
 
 Apparently there are no native beetle species "closely related" to CRB on Guam. That is good news because it reduces the risk of unwanted non-target effects. According to the current literature, OrNV attacks only rhinoceros beetles (subfamily Dynastinae).
 Laboratory studies using hemocoel injection or forced inoculation have occasionally caused infection in other scarab species, but natural epizootics in the wild impact only target and near-target dynastine hosts.
