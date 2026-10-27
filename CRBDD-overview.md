@@ -99,6 +99,17 @@ erDiagram
 
 ### Inputs
 
+### Differentiating Between Live and Dead Trees
+
+Live and dead coconut palms can be differentiated using the shape of objects detected by SAM3.
+Each shape is stored in the database as a polygon in the **tree_poly** field of the **tree** table.
+To classify tree shapes, Hu moments invariants are used for feature extraction and HDBSCAN is used for for clustering and discrimination [details](https://share.google/aimode/dS6jXU2Prtvrl8TtI).  
+
+### Detecting V-shaped Cuts
+
+Cuts to tree polygons are detected using elliptic Fourier analysis (EFA) [details](asking-gemini-to-find-vcuts).
+Resulting cut shapes are classified in the same way that tree shapes were: Hu moments invariants are used for feature extraction and HDBSCAN is used for for clustering and discrimination.
+
 ### Outputs
 
 ## References
